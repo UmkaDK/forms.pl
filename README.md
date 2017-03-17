@@ -3,9 +3,6 @@ Forms In Perl
 
 **Status:** Fully functional, but missing tests.
 
-About
------
-
 A collection of scripts designed for dealing with form submissions:
 
   - **form-validator.cgi** - designed to take a submitted form, validate it according to a set of rules and either forward form submission to another url or redisplay the form in a browser, highlighting fields that could not be validated.
