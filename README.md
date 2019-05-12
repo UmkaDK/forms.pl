@@ -1,7 +1,7 @@
 Forms In Perl
 =============
 
-**Status:** Fully functional, but missing tests.
+**Status:** Archived (Fully functional, but missing tests)
 
 A collection of scripts designed for dealing with form submissions:
 
